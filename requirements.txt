@@ -1,0 +1,5 @@
+enlighten
+scanpy
+numpy
+pandas 
+SEACells
